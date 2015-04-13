@@ -33,8 +33,11 @@
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
-		<string>UIInterfaceOrientationLandscapeLeft</string>
-		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>WhitneySSm-Bold-Bas.otf</string>
+		<string>WhitneySSm-Book-Bas.otf</string>
 	</array>
 </dict>
 </plist>

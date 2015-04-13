@@ -8,8 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface AuthViewController : UIViewController <UIWebViewDelegate>
 
+// connection to UIWebView in storyboard
+@property (weak, nonatomic) IBOutlet UIWebView *webAuthView;
 
 @end
 
